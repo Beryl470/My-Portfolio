@@ -37,7 +37,7 @@ The portfolio showcases Wendy’s professional background and includes sections 
 
 
 You can view the live site here:  
-👉 [Wendy Mwatu Portfolio](#) 
+👉 [Wendy Mwatu Portfolio](#) (https://miss-420.github.io/Final-Project-My-Portfolio-/)
 
 ---
 
